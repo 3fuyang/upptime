@@ -76,19 +76,19 @@
     "url": "https://matrixonecloud.cn",
     "icon": "https://icons.duckduckgo.com/ip3/matrixonecloud.cn.ico",
     "slug": "mo-cloud-cn",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1981,
-    "timeDay": 6659,
-    "timeWeek": 2834,
-    "timeMonth": 2038,
-    "timeYear": 1981,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "93.28%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 1973,
+    "timeDay": 5007,
+    "timeWeek": 2709,
+    "timeMonth": 2028,
+    "timeYear": 1973,
     "dailyMinutesDown": {
-      "2024-12-11": 0
+      "2024-12-11": 97
     }
   }
 ]
