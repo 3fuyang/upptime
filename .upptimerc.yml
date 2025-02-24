@@ -10,7 +10,7 @@ sites:
   - name: MO Docs
     url: https://docs.matrixorigin.cn
   - name: MO Cloud Docs
-    url: https://docs.matrixorigin.cn/zh/matrixonecloud
+    url: https://docs.matrixorigin.cn/zh/m1intelligence
   - name: MO Cloud CN
     url: https://matrixonecloud.cn
 
