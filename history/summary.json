@@ -4,9 +4,9 @@
     "url": "https://matrixorigin.cn",
     "icon": "https://icons.duckduckgo.com/ip3/matrixorigin.cn.ico",
     "slug": "mo-official-website-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -16,6 +16,7 @@
     "timeMonth": 1614,
     "timeYear": 1606,
     "dailyMinutesDown": {
+      "2025-03-20": 0,
       "2024-12-17": 59
     }
   },
@@ -61,11 +62,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.matrixorigin.cn.ico",
     "slug": "mo-cloud-docs",
     "status": "up",
-    "uptime": "96.40%",
+    "uptime": "96.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "84.76%",
-    "uptimeYear": "96.40%",
+    "uptimeYear": "96.41%",
     "time": 1184,
     "timeDay": 1190,
     "timeWeek": 1315,
